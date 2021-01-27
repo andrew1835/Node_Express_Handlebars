@@ -2,6 +2,7 @@ li {
   padding: 5px;
   margin: 5px;
   background: #faebd7;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .label {
@@ -19,7 +20,7 @@ li {
 }
 
 body {
-  background-color: salmon
+  background-color: lightsalmon
 }
 
 
